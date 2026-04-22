@@ -1,1 +1,8 @@
-{"mobile":{"version":"0.0.0","url":"","notes":"initial placeholder","date":"2026-04-22"}}
+{
+    "mobile":  {
+                   "date":  "2026-04-22",
+                   "url":  "https://github.com/ttttdiva/PasswordManager/releases/download/v2.0.0/PasswordManager.apk",
+                   "version":  "2.0.0",
+                   "notes":  "Password Manager mobile release v2.0.0"
+               }
+}

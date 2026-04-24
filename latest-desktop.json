@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/ttttdiva/PasswordManager/releases/download/desktop-v3.1.1/PasswordManager.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFBHMHA5UWM0V2l0QzVvUXFmZlZoS0RLMUJiNTZKQUZSVktzRkQ1bFpsbTkrcVhGT2h6MDJ5elNKd2xGSDBCK3V1R0dVdFpBUEJLalNsY3pDZkYyQXBnRkhWUkJoblFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDIwNjQ0CWZpbGU6UGFzc3dvcmRNYW5hZ2VyLmV4ZQpESXBFbGtWVDBIWlpwMGNkTGpibno2UTREVS9tN0ZzUWVCUWpvZjErZ1VTbUx2eTYvanA5QmtmM2RBdlNPaytlNUYvNVFMQXVDeGc1djdIVWJuSnpCQT09Cg=="
+                                             "url":  "https://github.com/ttttdiva/PasswordManager/releases/download/desktop-v3.1.2/PasswordManager-3.1.2.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRFBHMHA5UWM0V3FWSmZUY2s2WDU0WEUzVUxVVW1uTlFhMFhKVEovZzRlZk8zNUxaMnhabVFIYjJBZHVzQVFyVlFLYS9hcFdkamVrcEFuUk1WNWpGVXY5ZG5YYno0NmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDIxMjI2CWZpbGU6UGFzc3dvcmRNYW5hZ2VyLTMuMS4yLmV4ZQpxU2VyK2Vrd0p0Q0pGTXZVeVVyMGpmNzl5UnI5MjNTNFRsMWJnQ213UkpmUTV3Ni9CUEtXb1NlK2hGc3FsczkwallyRXVRSHZFR0lFdGE3OGpLalJEUT09Cg=="
                                          }
                   },
-    "pub_date":  "2026-04-24T17:50:44.9395531+09:00",
-    "version":  "3.1.1",
-    "notes":  "Password Manager desktop release v3.1.1"
+    "pub_date":  "2026-04-24T18:00:27.1417677+09:00",
+    "version":  "3.1.2",
+    "notes":  "Password Manager desktop release v3.1.2"
 }
